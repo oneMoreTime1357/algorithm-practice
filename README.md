@@ -3,4 +3,4 @@
 
     算法：
 
-    宝石与石头 and Moving Zeros To The End
+    宝石与石头 and Moving Zeros To The
