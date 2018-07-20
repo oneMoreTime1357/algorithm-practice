@@ -1,6 +1,14 @@
-# JS算法
-    放松时间的小练习，活动一下大脑
 
-    算法：
-    
-    [宝石与石头 and Moving Zeros To The end](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4and%20Moving%20Zeros%20To%20The%20End.md)
+
+## LeetCode
+
+#### LeetCode Algorithm
+
+每周一练 from 2018
+| Time | Title | Solution | Difficulty |
+| --- | --- | --- | --- |
+| 第二十九周 | 汉明距离 |  | Easy |
+| 第二十八周 | 翻转图像 |  | Easy |
+| # | 宝石与石头 |  | Easy |
+| # | 判断路线成圈 |  | Easy |
+
