@@ -8,6 +8,7 @@
 
 |    Time   | Title |    Solution    | Difficulty |
 | ---       | ---         | ---      | ---        |
+| 第三十一周  | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)     | [JS]()    | Medium    |
 | 第三十周   | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)   | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/peakIndexMountain.js)     | Easy       |
 | 第二十九周 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)     | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/Hanming-distance.js)       | Easy       |
 | 第二十八周 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)     | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/Flipping-an-image.js)        | Easy       |
