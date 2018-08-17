@@ -8,6 +8,7 @@
 
 |    Time   | Title |    Solution    | Difficulty |
 | ---       | ---         | ---      | ---        |
+| 第三十三周  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)    | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/invertBinaryTree.js)  | Easy   |
 | 第三十二周  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)    | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/mergeBinaryTree.js)   | Easy    |
 | 第三十一周  | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)     | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/binaryTreePreOrder.js)    | Medium    |
 | 第三十周   | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)   | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/peakIndexMountain.js)     | Easy       |
