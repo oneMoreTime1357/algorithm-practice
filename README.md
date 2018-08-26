@@ -8,6 +8,7 @@
 
 |    Time   | Title |    Solution    | Difficulty |
 | ---       | ---         | ---      | ---        |
+| 第三十四周  | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/)    | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/numberComplement.js)  | Easy   |
 | 第三十三周  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)    | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/invertBinaryTree.js)  | Easy   |
 | 第三十二周  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)    | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/mergeBinaryTree.js)   | Easy    |
 | 第三十一周  | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)     | [JS](https://github.com/oneMoreTime1357/codewar-algorithm/blob/master/algorithm/js/binaryTreePreOrder.js)    | Medium    |
