@@ -4,6 +4,11 @@
 
 #### LeetCode Algorithm
 
+2019 
+
+
+
+
 每周一练 from 2018
 
 |    Time   | Title |    Solution    | Difficulty |
