@@ -9,7 +9,7 @@
 |    Time   | Title |    Solution    | Difficulty |
 | ---       | ---         | ---      | ---        |
 | ---       | ---         | ---      | ---        |
-sss
+
 ---
 
 
