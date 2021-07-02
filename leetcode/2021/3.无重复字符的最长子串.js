@@ -14,7 +14,16 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-
+  if (!s) return 0
+  let sAarry = s.split('')
+  let res = []
+  for (let index = 0, len = sAarry.length; index < len - 1; index++) {
+    // const element = array[index];
+   for (let j = index + 1; j < len; j++) {
+  // const element = array[index];
+      
+    }
+  }
 };
 // @lc code=end
 
