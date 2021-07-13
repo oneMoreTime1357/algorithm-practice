@@ -12,17 +12,22 @@
 /**
  * @param {string} s
  * @return {number}
+ * 解决办法使用的是滑动窗口
+ * 需要输出字符串的长度
  */
 var lengthOfLongestSubstring = function(s) {
-  if (!s) return 0
-  let sAarry = s.split('')
-  let res = []
-  for (let index = 0, len = sAarry.length; index < len - 1; index++) {
-    // const element = array[index];
-   for (let j = index + 1; j < len; j++) {
-  // const element = array[index];
-      
+  const occ = new Set();
+  const len = s.length;
+  let rk = -1, ans = 0;
+  for (let i = 0; i < len; i++) {
+    if (i !== 0) {
+      occ.delete(s.charAt(i - 1))
     }
+    while (rk + 1 < len && !occ.has(s.charAt(rk + 1))) {
+      occ.add(s.charAt(rk + 1));
+      ++rk;
+    }
+    ans = Math.max(ans, rk - i + 1)
   }
 };
 // @lc code=end
